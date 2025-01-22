@@ -34,6 +34,8 @@ A sample log file, example_log.log, is included for testing. It contains entries
 yaml
 
 [2025-01-22 12:00:00] INFO: Application started
+
 [2025-01-22 12:01:00] WARNING: High memory usage
+
 [2025-01-22 12:02:00] ERROR: Unable to connect to the database
 
